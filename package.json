@@ -1,0 +1,16 @@
+{
+  "name": "fleek-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fleekhq/space-client": "^1.0.3",
+    "require": "^2.4.20",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
